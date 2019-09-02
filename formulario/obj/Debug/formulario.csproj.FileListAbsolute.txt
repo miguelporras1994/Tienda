@@ -1,0 +1,15 @@
+D:\programacion.net\tienda\formulario\obj\Debug\formulario.csprojAssemblyReference.cache
+D:\programacion.net\tienda\formulario\obj\Debug\formulario.Properties.Resources.resources
+D:\programacion.net\tienda\formulario\obj\Debug\formulario.csproj.GenerateResource.cache
+D:\programacion.net\tienda\formulario\obj\Debug\formulario.csproj.CoreCompileInputs.cache
+D:\programacion.net\tienda\formulario\bin\Debug\formulario.exe.config
+D:\programacion.net\tienda\formulario\bin\Debug\formulario.exe
+D:\programacion.net\tienda\formulario\bin\Debug\formulario.pdb
+D:\programacion.net\tienda\formulario\obj\Debug\formulario.exe
+D:\programacion.net\tienda\formulario\obj\Debug\formulario.pdb
+D:\programacion.net\tienda\formulario\obj\Debug\formulario.Tienda.resources
+D:\programacion.net\tienda\formulario\bin\Debug\EntityFramework.dll
+D:\programacion.net\tienda\formulario\bin\Debug\EntityFramework.SqlServer.dll
+D:\programacion.net\tienda\formulario\bin\Debug\EntityFramework.xml
+D:\programacion.net\tienda\formulario\bin\Debug\EntityFramework.SqlServer.xml
+D:\programacion.net\tienda\formulario\obj\Debug\formulario.csproj.CopyComplete
